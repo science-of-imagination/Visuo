@@ -1,0 +1,6 @@
+the main file is sim2_NotSavingExemplar.py
+
+To change the training file or other such options (to train or not, to get output or not)
+please see lines 1184 to 1202.
+
+
